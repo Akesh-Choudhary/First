@@ -15,7 +15,7 @@ Original file is located at
 import streamlit as st
 
 # give a title to our app
-st.title('Welcome to BMI Calculator developed by  Ratan dev yadav ')
+st.title('Welcome to BMI Calculator developed by  Akesh Kumar ')
 
 # TAKE WEIGHT INPUT in kgs
 weight = st.number_input(" dekh kya rha hai Enter your weight (in kgs)")
